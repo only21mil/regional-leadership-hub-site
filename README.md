@@ -56,3 +56,4 @@ For OTA updates, run the build-and-deploy script.
 
 Bump the `Last updated` date on `privacy.html` whenever the collected-data
 section changes.
+# force rebuild Mon Apr 27 05:44:47 CDT 2026
