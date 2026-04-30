@@ -1,6 +1,2 @@
-# macOS build artifacts — drop in only after Developer ID + notarization
-# (the zip currently in mac/ is ad-hoc signed and would fail Gatekeeper).
-mac/
-
 # OS junk
 .DS_Store
